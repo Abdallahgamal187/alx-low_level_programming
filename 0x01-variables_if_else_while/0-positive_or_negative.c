@@ -3,11 +3,9 @@
 #include <stdio.h>
 
 /**
- * main - entry point
+ * main - prints if number is positive, zero or negative
+ * Return: Always (Success)
  *
- * Description: false or true validation
- *
- * Return : 0 (success)
  */
 
 int main(void)
